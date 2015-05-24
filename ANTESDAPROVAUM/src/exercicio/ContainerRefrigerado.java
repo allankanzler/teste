@@ -16,9 +16,9 @@ public class ContainerRefrigerado extends Container {
 
 	@Override
 	public String toString() {
-		return "ContainerRefrigerado [lacre=" + lacre
+		return "\nContainerRefrigerado [lacre=" + lacre
 				+ ", valorFrete=" + valorFrete + ", peso=" + peso
-				+ ", valorFreteFinal=" + valorFreteFinal + "]";
+				+ ", valorFreteFinal=" + valorFreteFinal + "\r\n";
 	}
 	
 	

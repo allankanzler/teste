@@ -54,7 +54,7 @@ public abstract class Container {
 	@Override
 	public String toString() {
 		return "container [lacre=" + lacre + ", valorFrete="
-				+ valorFrete + ", peso=" + peso + "]";
+				+ valorFrete + ", peso=" + peso + "]\r\n";
 	}
 	
 	

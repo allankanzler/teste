@@ -28,9 +28,9 @@ public class ContainerTanque extends Container {
 
 	@Override
 	public String toString() {
-		return "ContainerTanque [volume=" + volume + ", valorFreteFinal="
-				+ valorFreteFinal + ", lacre=" + lacre
-				+ ", valorFrete=" + valorFrete + ", peso=" + peso + "]";
+		return "\nContainerTanque [Lacre="+lacre+", volume=" + volume + ", valorFreteFinal="
+				+ valorFreteFinal
+				+ ", valorFrete=" + valorFrete + ", peso=" + peso + "]\r\n";
 	}
 	
 	

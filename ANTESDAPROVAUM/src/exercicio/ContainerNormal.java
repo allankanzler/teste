@@ -38,10 +38,10 @@ public class ContainerNormal extends Container {
 
 	@Override
 	public String toString() {
-		return "ContainerNormal [infoMercadoria=" + infoMercadoria
+		return "\nContainerNormal [Lacre="+lacre+", infoMercadoria=" + infoMercadoria
 				+ ", valorDeAjuste=" + valorDeAjuste + ", valorFreteFinal="
-				+ valorFreteFinal +", lacre=" + lacre
-				+ ", valorFrete=" + valorFrete + ", peso=" + peso + "]";
+				+ valorFreteFinal
+				+ ", valorFrete=" + valorFrete + ", peso=" + peso + "]\r\n";
 	}
 	
 	
